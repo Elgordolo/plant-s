@@ -1,4 +1,4 @@
-# plant-s-2.0
+# plant-s
 Proyecto de Creación Multimedia Interactiva de la Facultad de Bellas Artes de la Univesidad de Granada
 
 # Datos
